@@ -27,15 +27,23 @@ A cliente has an interest in opening a CitiBike (bikesharing) in their home town
 
 First change the Trip duration to a Datetime format.
 ![](Images/NYC_CitiBike_jupyter.png)
-1. Peak hours are between 6-10 am and 4-8pm.
+
+*1. Peak hours are between 6-10 am and 4-8pm.*
+
 ![](Images/Peak_hours.png)
-2. Bike trip duration last 6-7 minutes.
+
+*2. Bike trip duration last 6-7 minutes.*
+
 ![](Images/Checkout_time_users.png)
+
 ![](Images/Checkout_time_gender.png)
-3. Males make up more than half of the users.
+
+*3. Males make up more than half of the users.*
 ![](Images/Trips_by_weekday.png)
+
 ![](Images/Trips_by_gender_usertype_weekday.png)
-4. Bike usage.
+
+*4. Bike usage.*
 ![](Images/Bike_usage.png)
 
 ### Summary:
