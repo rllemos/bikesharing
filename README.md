@@ -2,7 +2,8 @@
 # NYC CitiBike Story
 
 #### *Link to NYC CitiBike Story:*
-[link to dashboard]("https://public.tableau.com/views/Module-14_16455550074700/CitiBike_Story?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link")
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/views/Module-14_16455550074700/CitiBike_Story?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link")
+
 
 ## Purpose:
 To determine if a bikesharing program in Des Moines is a solid business proposal.
