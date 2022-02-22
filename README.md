@@ -1,5 +1,6 @@
 # bikesharing
 
+*Link to NYC CitiBike Story:*
 [link to dashboard](LINK GOES HERE "https://public.tableau.com/views/Module-14_16455550074700/CitiBike_Story?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link")
 
 ## Purpose:
@@ -23,9 +24,19 @@ A cliente has an interest in opening a CitiBike (bikesharing) in their home town
 * Show the number of bike trips for each type of user and gender for each day of the week.
 
 ### Results:
+
+First change the Trip duration to a Datetime format.
+![](Images/NYC_CitiBike_jupyter.png)
 1. Peak hours are between 6-10 am and 4-8pm.
+![](Images/Peak_hours.png)
 2. Bike trip duration last 6-7 minutes.
+![](Images/Checkout_time_users.png)
+![](Images/Checkout_time_gender.png)
 3. Males make up more than half of the users.
+![](Images/Trips_by_weekday.png)
+![](Images/Trips_by_gender_usertype_weekday.png)
+4. Bike usage.
+![](Images/Bike_usage.png)
 
 ### Summary:
 1. Peak hours for bikesharing seem to correlate with travel time to and from work. Out of those users males make up more than half of the bike users.
