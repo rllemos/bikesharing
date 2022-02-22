@@ -1,7 +1,8 @@
 # bikesharing
+# NYC CitiBike Story
 
-*Link to NYC CitiBike Story:*
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/views/Module-14_16455550074700/CitiBike_Story?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link")
+#### *Link to NYC CitiBike Story:*
+[link to dashboard]("https://public.tableau.com/views/Module-14_16455550074700/CitiBike_Story?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link")
 
 ## Purpose:
 To determine if a bikesharing program in Des Moines is a solid business proposal.
@@ -27,7 +28,7 @@ A cliente has an interest in opening a CitiBike (bikesharing) in their home town
 
 #### *First change the Trip duration to a Datetime format.*
 ![](Images/NYC_CitiBike_jupyter.png)
-
+-------------------------------------------------------------------------------------
 #### *1. Peak hours are between 6-10 am and 4-8pm.*
 
 ![](Images/Peak_hours.png)
